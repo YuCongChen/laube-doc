@@ -1,1 +1,18 @@
 node_modules
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that store metadata about a folder or document
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Temporary files
+.TemporaryItems
+.apdisk

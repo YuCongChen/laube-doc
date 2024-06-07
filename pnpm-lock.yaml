@@ -7,10 +7,6 @@ settings:
 importers:
 
   .:
-    dependencies:
-      laube-doc:
-        specifier: 'link:'
-        version: 'link:'
     devDependencies:
       vitepress:
         specifier: ^1.1.4
